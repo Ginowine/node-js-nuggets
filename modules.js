@@ -1,6 +1,6 @@
 const os = require('os')
 
-// Get info about the current user
+// get info about the current user
 const user = os.userInfo()
 console.log(user)
 
